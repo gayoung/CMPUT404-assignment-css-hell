@@ -33,8 +33,10 @@ img src attribute values.
  between two header elements into a div with class name storyContainer.
 - deleted 
 '''html
+<pre>
     <div style="height: 4em;">
         <br><br><br><br>
     </div>
+</pre>
 '''
 in document1.html(the br element spacing was replaced with css margins)
