@@ -21,4 +21,18 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Assignment Part I:
+==================
 
+The changes made to the project gutenberg HTML files are listed below:
+- added class called copyright to pre element in the beginning.
+- had to change the href on surrounding anchor element to each images to
+properly link the file to gutenberg images and also do the same for the 
+img src attribute values.
+- Wrapped all the paragraph elements associated with each images or in
+ between two header elements into a div with class name storyContainer.
+- deleted 
+    <div style="height: 4em;">
+        <br><br><br><br>
+    </div>
+in document1.html(the br element spacing was replaced with css margins)

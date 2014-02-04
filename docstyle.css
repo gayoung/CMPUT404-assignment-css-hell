@@ -1,0 +1,196 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 3-Feb-2014, 10:26:59 AM
+    Author     : gayoung
+*/
+
+/* <![CDATA[ */
+
+html
+{
+    background-image: url("./img/document1.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+body 
+{
+    margin:5%;
+    /*background:#faebd0;*/ 
+    text-align:justify;
+}
+
+.copyright
+{
+    border-radius: 20px;
+    border: antiquewhite 2px dotted;
+    /* the CSS for the background image below was obtained from:
+    http://ie.microsoft.com/TEStdrive/Graphics/CSSGradientBackgroundMaker/Default.html */
+    background-image: radial-gradient(ellipse farthest-corner at center, #FFFFFF 0%, #F2D08C 100%);
+    padding: 2%;
+}
+
+P 
+{
+    text-indent: 1em;
+    margin-top: .25em; 
+    margin-bottom: .25em;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+H1,H2,H3,H4,H5,H6 
+{ 
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    letter-spacing: 10px;
+    font-family: cursive;
+    font-weight: bolder
+}
+
+a
+{
+    color: #006600;
+}
+
+a:hover
+{
+    color: #003300;
+}
+
+a:visited
+{
+    color: #003300;
+}
+
+hr
+{ 
+    width: 50%;
+    text-align: center;
+}
+.foot 
+{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify; 
+    text-indent: -3em;
+    font-size: 90%;
+}
+blockquote 
+{
+    font-size: 97%;
+    font-style: italic; 
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.mynote    
+{
+    color: #000; 
+    padding: .5em; 
+    margin-left: 10%; 
+    margin-right: 10%; 
+    font-family: sans-serif; 
+    font-size: 95%;
+}
+.toc       
+{ 
+    margin-left: 10%;
+    margin-bottom: .75em;
+}
+.toc2      
+{
+    margin-left: 20%;
+}
+div.fig
+{ 
+    display:block; 
+    margin:0 auto; 
+    text-align:center; 
+}
+.figleft   
+{
+    float: left;
+    margin-left: 0%;
+    margin-right: 1%;
+}
+.figright  
+{
+    float: right; 
+    margin-right: 0%; 
+    margin-left: 1%;
+}
+pre 
+{ 
+    font-style: italic; 
+    font-size: 90%; 
+    margin-left: 10%;
+}
+
+.figcenter
+{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.figcenter img
+{
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #888888;
+    height: 100%;
+}
+
+.nf-center-c
+{
+    text-align: center;
+    margin: 2% 0;
+}
+
+.larger
+{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.container-left table
+{
+    margin: 2% 40%;
+}
+
+.storyContainer
+{
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 0 2%;
+    width: 70%;
+    /* the CSS for the background image below was obtained from:
+    http://ie.microsoft.com/TEStdrive/Graphics/CSSGradientBackgroundMaker/Default.html */
+    background-image: radial-gradient(ellipse farthest-corner at center, #F0F2F2 0%, #D6E0A2 100%);
+    border-radius: 25px;
+    border: #F2D08C groove 3px;
+}
+
+.subtitle
+{
+    margin: 1% 11%;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.c005
+{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+/*.figcenter img
+{
+    float: left
+}*/
+/* ]]> */
+
