@@ -32,7 +32,9 @@ img src attribute values.
 - Wrapped all the paragraph elements associated with each images or in
  between two header elements into a div with class name storyContainer.
 - deleted 
-    '<div style="height: 4em;">
+'''html
+    <div style="height: 4em;">
         <br><br><br><br>
-    </div>'
+    </div>
+'''
 in document1.html(the br element spacing was replaced with css margins)
