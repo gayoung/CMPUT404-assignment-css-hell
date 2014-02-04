@@ -1,11 +1,10 @@
 /*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/*
-    Created on : 3-Feb-2014, 10:26:59 AM
-    Author     : gayoung
+    Some of the CSS was taken from the style tag of
+    http://www.gutenberg.org/files/2591/2591-h/2591-h.htm. and was modified by 
+    Ga Young Kim. Other external code is documented below.
+
+    This file is licensed under Creative Commons Attribution-NoDerivs 2.0
+    (for more information please see LICENSE file).
 */
 
 /* <![CDATA[ */
@@ -20,10 +19,10 @@ html
 body 
 {
     margin:5%;
-    /*background:#faebd0;*/ 
     text-align:justify;
 }
 
+/* pre element that has information from the author at the beginning of each documents*/
 .copyright
 {
     border-radius: 20px;
@@ -42,6 +41,7 @@ P
     font-size: 16px;
     font-family: sans-serif;
 }
+
 H1,H2,H3,H4,H5,H6 
 { 
     text-align: center;
@@ -188,9 +188,4 @@ pre
     margin-top: 1%;
     margin-bottom: 1%;
 }
-/*.figcenter img
-{
-    float: left
-}*/
-/* ]]> */
 
