@@ -164,15 +164,16 @@ pre
 .storyContainer
 {
     margin-bottom: 10%;
-    margin-left: 10%;
+    margin-left: 13%;
     margin-right: 10%;
-    padding: 0 2%;
+    padding: 2%;
     width: 70%;
     /* the CSS for the background image below was obtained from:
     http://ie.microsoft.com/TEStdrive/Graphics/CSSGradientBackgroundMaker/Default.html */
     background-image: radial-gradient(ellipse farthest-corner at center, #F0F2F2 0%, #D6E0A2 100%);
     border-radius: 25px;
     border: #F2D08C groove 3px;
+    line-height: 140%;
 }
 
 .subtitle
@@ -189,3 +190,9 @@ pre
     margin-bottom: 1%;
 }
 
+.sidenote
+{
+    font-size: 14px;
+    margin-left: 20%;
+    margin-right: 20%;
+}

@@ -31,4 +31,5 @@ properly link the file to gutenberg images and also do the same for the
 img src attribute values.
 - Wrapped all the paragraph elements associated with each images or in
  between two header elements into a div with class name storyContainer.
-- deleted a div with 3 breaks in document1.html(the br element spacing was replaced with css margins)
+- deleted a div with 3 breaks in document1.html and in document3.html(the br element spacing was replaced with css margins)
+- added a class sidenote to a para that had a small note below part I title in document3.html
