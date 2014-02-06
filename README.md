@@ -33,3 +33,8 @@ img src attribute values.
  between two header elements into a div with class name storyContainer.
 - deleted a div with 3 breaks in document1.html and in document3.html(the br element spacing was replaced with css margins)
 - added a class sidenote to a para that had a small note below part I title in document3.html
+
+Assignment Part II:
+===================
+- resume.png and work.png was obtained from:
+http://openclipart.org/detail/155095/resume-by-mazeo
