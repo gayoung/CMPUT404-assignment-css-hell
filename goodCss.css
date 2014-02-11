@@ -33,26 +33,47 @@ section
 
 .banner
 {
-    width: 80%;
-    padding: 10%;
+    width: 100%;
     /* the CSS for the background image below was obtained from:
     http://ie.microsoft.com/TEStdrive/Graphics/CSSGradientBackgroundMaker/Default.html */
-    background-image: linear-gradient(to top right, #FFFFFF 0%, #00598F 100%);
+    background-image: radial-gradient(ellipse farthest-corner at left center, #227AE0 0%, #134DA6 100%);
     overflow: hidden;
+    height: 30%;
 }
 
-.nav_div
+.banner_content
 {
-    width: 98%;
+    padding: 5% 10%;
+}
+
+.banner img
+{
+    width: 100%;
+    height: 10%;
+    top: 0;
+}
+
+#mypic
+{
+    width: 35%;
+}
+
+#unrelated
+{
+    display:none;
+}
+
+.nav_menu
+{
+    width: 80%;
     /* the CSS for the background image below was obtained from:
     http://ie.microsoft.com/TEStdrive/Graphics/CSSGradientBackgroundMaker/Default.html */
     background-image: linear-gradient(to top, #969696 0%, #000E17 100%);
     overflow: hidden;
-    padding: 1%;
-}
-.nav_menu
-{
-    margin-left: 20%;
+    padding-left: 15%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 10%;
 }
 
 .navmenu_item
@@ -112,6 +133,11 @@ section
     line-height: 25px;
 }
 
+.mainContent a
+{
+    color: #00598F;
+}
+
 .aboutMe
 {
     float: left;
@@ -128,6 +154,7 @@ section
     font-size: 14px;
     padding: 2%;
     min-height: 500px;
+    text-align: center;
 }
 
 .sidebar h1
@@ -138,6 +165,16 @@ section
 .sidebar h2
 {
     color: #428bca;
+}
+
+.sidebar img
+{
+    display: none;
+}
+
+.sidebar_content
+{
+    margin-bottom: 10%;
 }
 
 .sectionContainer
@@ -156,7 +193,8 @@ section
 .rightContent
 {
     float: right;
-    width: 60%;
+    width: 57%;
+    margin-left: 4%;
 
 }
 
@@ -164,10 +202,37 @@ section
 {
     float: left;
     width: 60%;
+    margin-right: 2%;
 
 }
 
 #offer img
 {
     float: left;
+}
+.end_banner
+{
+    height: 10%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.end_banner img
+{
+    width: 100%;
+    height: 10%;
+}
+
+#resume, #work
+{
+    width: 35%;
+}
+#unrelated2, #unrelated3
+{
+    display:none;
+}
+
+.triangle-obtuse
+{
+    display: none;
 }

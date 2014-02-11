@@ -38,3 +38,15 @@ Assignment Part II:
 ===================
 - resume.png and work.png was obtained from:
 http://openclipart.org/detail/155095/resume-by-mazeo
+- the wood picture top and bottom of the website was obtained from:
+http://all-free-download.com/free-photos/wood_background_hd_picture_5_169810.html
+- lightning image came from:
+http://www.clker.com/cliparts/Z/u/C/l/q/K/lightning-bolt-th.png
+- unrelate2.jpg image came from:
+http://www.pageresource.com/wallpapers/16526/sleeping-dogs-papillon-puppy-dog-sleep-animals-free-hd-wallpaper.html
+- unrelate1.jpg came from:
+http://www.wallsave.com/wallpaper/1366x768/kitten-fluffy-free-hd-images-100611.html
+- unrelate3.png came from:
+http://free.clipartof.com/details/176-Free-Cartoon-Owl-Clipart
+- badbanner.jpg background came from:
+http://backgrounds.mysitemyway.com/free-nightlights-stock-background-images/
